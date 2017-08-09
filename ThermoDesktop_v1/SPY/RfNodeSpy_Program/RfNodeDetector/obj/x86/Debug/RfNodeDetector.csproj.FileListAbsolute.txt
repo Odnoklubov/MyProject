@@ -1,0 +1,40 @@
+C:\Users\Wolowizard\documents\visual studio 2010\Projects\RfNodeDetector\RfNodeDetector\bin\Debug\RfNodeDetector.exe
+C:\Users\Wolowizard\documents\visual studio 2010\Projects\RfNodeDetector\RfNodeDetector\bin\Debug\RfNodeDetector.pdb
+C:\Users\Wolowizard\documents\visual studio 2010\Projects\RfNodeDetector\RfNodeDetector\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Wolowizard\documents\visual studio 2010\Projects\RfNodeDetector\RfNodeDetector\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Wolowizard\documents\visual studio 2010\Projects\RfNodeDetector\RfNodeDetector\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Wolowizard\documents\visual studio 2010\Projects\RfNodeDetector\RfNodeDetector\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Wolowizard\documents\visual studio 2010\Projects\RfNodeDetector\RfNodeDetector\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Wolowizard\documents\visual studio 2010\Projects\RfNodeDetector\RfNodeDetector\obj\x86\Debug\RfNodeDetector.exe
+C:\Users\Wolowizard\documents\visual studio 2010\Projects\RfNodeDetector\RfNodeDetector\obj\x86\Debug\RfNodeDetector.pdb
+d:\SensornetSvn\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.exe
+d:\SensornetSvn\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.pdb
+d:\SensornetSvn\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\bin\Debug\RfNodeDetector.exe
+d:\SensornetSvn\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\bin\Debug\RfNodeDetector.pdb
+d:\SensornetSvn\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\SensornetSvn\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+d:\SensornetSvn\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\SensornetSvn\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\SensornetSvn\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.Properties.Resources.resources
+E:\Work\svnProject\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.exe
+E:\Work\svnProject\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.pdb
+E:\Work\svnProject\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\bin\Debug\RfNodeDetector.exe
+E:\Work\svnProject\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\bin\Debug\RfNodeDetector.pdb
+E:\Work\svnProject\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Work\svnProject\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Work\svnProject\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.Properties.Resources.resources
+E:\Work\svnProject\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Work\svnProject\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\GenerateResource.write.1.tlog
+f:\sensornetSvn\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.exe
+f:\sensornetSvn\trunk\Soft\RfNodeDetector\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.pdb
+e:\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.exe
+e:\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.pdb
+e:\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+e:\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.Properties.Resources.resources
+e:\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\RfNodeDetector_Program\RfNodeDetector\obj\x86\Debug\GenerateResource.write.1.tlog
+e:\RfNodeDetector_Program\RfNodeDetector\bin\Debug\RfNodeDetector.exe
+e:\RfNodeDetector_Program\RfNodeDetector\bin\Debug\RfNodeDetector.pdb
+e:\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.exe
+e:\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.pdb

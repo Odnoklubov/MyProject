@@ -1,0 +1,53 @@
+////////////////////////////////////////////////////////////////////////////////
+//!
+//! \file WirelessNetwork.h
+//!
+//! \brief initialization function and operation of the wireless network
+//!
+//! \author Sergey Vasilenko "sergey@mcsys.by"
+//!
+////////////////////////////////////////////////////////////////////////////////
+#ifndef _WIRELESS_NETWORK_
+#define _WIRELESS_NETWORK_
+#include "types.h"
+
+////////////////////////////////////////////////////////////////////////////////
+// Macro definitions
+////////////////////////////////////////////////////////////////////////////////
+#define NODE FALSE
+#define TERMINAL TRUE
+
+#define BROAD           0xff
+
+#define TERM_ID         0xfe
+// For information about packet
+#define INITIALIZING    0x01
+#define INFO            0x02
+#define QUERY           0x03
+#define ANSWER          0x04
+#define ACKNOWLEDGEMENT 0x05
+
+////////////////////////////////////////////////////////////////////////////////
+// Functions
+////////////////////////////////////////////////////////////////////////////////
+//! 
+//! \brief The initialization of  device in network.
+//!
+//! \param bool mode  - type of device. This parameter may be a NODE when the node is initialized or
+//!                                                    the TERMINAL if the terminal is initialized
+//! \param uint8 id - identification number of device, it's address of device in network too
+//!
+//! \return 
+//!
+////////////////////////////////////////////////////////////////////////////////
+void NetworkInit(BOOL mode,uint8 id);
+////////////////////////////////////////////////////////////////////////////////
+//! 
+//! Perspectives
+//!
+////////////////////////////////////////////////////////////////////////////////
+void TerminalInit(uint8 id);
+void NodeInit(uint8 id);
+void getTemp(uint8* temp);
+BOOL strCompare(uint8 str1[],uint8 str2[]);
+#endif //_WIRELESS_NETWORK_

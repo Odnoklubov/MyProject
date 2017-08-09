@@ -1,0 +1,35 @@
+e:\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.exe
+e:\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.pdb
+e:\RfNodeSpy_Program\RfNodeDetector\bin\Debug\RfNodeDetector.exe
+e:\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+e:\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.Properties.Resources.resources
+e:\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\GenerateResource.write.1.tlog
+e:\RfNodeSpy_Program\RfNodeDetector\bin\Debug\RfNodeDetector.pdb
+D:\Backup\MyProjects\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.exe
+D:\Backup\MyProjects\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.pdb
+D:\Backup\MyProjects\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\bin\Debug\RfNodeDetector.exe
+D:\Backup\MyProjects\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\bin\Debug\RfNodeDetector.pdb
+D:\Backup\MyProjects\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup\MyProjects\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Backup\MyProjects\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.Properties.Resources.resources
+D:\Backup\MyProjects\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Backup\MyProjects\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Backup\MyProjects\TermoDisplay4x7\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.exe
+D:\Backup\MyProjects\TermoDisplay4x7\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.pdb
+D:\Backup\MyProjects\TermoDisplay4x7\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\bin\Debug\RfNodeDetector.exe
+D:\Backup\MyProjects\TermoDisplay4x7\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\bin\Debug\RfNodeDetector.pdb
+D:\Backup\MyProjects\TermoDisplay4x7\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup\MyProjects\TermoDisplay4x7\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Backup\MyProjects\TermoDisplay4x7\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.Properties.Resources.resources
+D:\Backup\MyProjects\TermoDisplay4x7\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Backup\MyProjects\TermoDisplay4x7\SPY\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Users\aadna\Google Диск\ThermoDisplay\ThermoDisplay4x7_MainProject\ThermoDesktop_v1\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.exe
+c:\Users\aadna\Google Диск\ThermoDisplay\ThermoDisplay4x7_MainProject\ThermoDesktop_v1\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.pdb
+c:\Users\aadna\Google Диск\ThermoDisplay\ThermoDisplay4x7_MainProject\ThermoDesktop_v1\SPY\RfNodeSpy_Program\RfNodeDetector\bin\Debug\RfNodeDetector.exe
+c:\Users\aadna\Google Диск\ThermoDisplay\ThermoDisplay4x7_MainProject\ThermoDesktop_v1\SPY\RfNodeSpy_Program\RfNodeDetector\bin\Debug\RfNodeDetector.pdb
+c:\Users\aadna\Google Диск\ThermoDisplay\ThermoDisplay4x7_MainProject\ThermoDesktop_v1\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeSpy.csprojResolveAssemblyReference.cache
+c:\Users\aadna\Google Диск\ThermoDisplay\ThermoDisplay4x7_MainProject\ThermoDesktop_v1\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\Users\aadna\Google Диск\ThermoDisplay\ThermoDisplay4x7_MainProject\ThermoDesktop_v1\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeDetector.Properties.Resources.resources
+c:\Users\aadna\Google Диск\ThermoDisplay\ThermoDisplay4x7_MainProject\ThermoDesktop_v1\SPY\RfNodeSpy_Program\RfNodeDetector\obj\x86\Debug\RfNodeSpy.csproj.GenerateResource.Cache

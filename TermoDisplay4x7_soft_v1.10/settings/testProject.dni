@@ -1,0 +1,95 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=-725433442
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[BreakpointUsageDialog]
+Placement=_ 461 223 906 505
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[DataLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Breakpoints2]
+Count=0
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[Trace1]
+Enabled=0
+ShowSource=1
+[watch_formats]
+Fmt0={W}0:0x1235	1	0
+Fmt1={W}0:0x2000 | DigitCodes[(sNumToDisplay/100)%10]	4	0
+Fmt2={W}0:0x5e	1	0
+Fmt3={W}0:0x5ea6	1	0
+Fmt4={W}0:0xa6	1	0
+Fmt5={W}0:0xa65c	1	0
+Fmt6={W}0:0xdc71	1	0
+Fmt7={W}0:0xe40a	1	0
+Fmt8={W}0:cEncodingType	3	0
+Fmt9={W}0:cPreambleTreshold	1	0
+Fmt10={W}0:cPreambleTreshold << 3	1	0
+Fmt11={W}0:cRealTreshold	4	0
+Fmt12={W}0:i	3	0
+Fmt13={W}0:iValue1	4	0
+Fmt14={W}0:sNumToDisplay	3	0
+Fmt15={W}0:sTerminalTemperature	4	0
+Fmt16={W}0:ucRssi	3	0
+Fmt17={W}0:wr_data	1	0
+Fmt18={W}0:wr_data1	1	0
+[DataSample]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[Aliases]
+A0=_ "D:\Backup\MyProjects\TermoDisplay4x7\TermoDisplay4x7_v1.09\main.c" ""
+A1=_ "D:\Backup\MyProjects\testProject\spi.c" ""
+A2=_ "E:\Work\testProject\Libraries\one-wire.c" ""
+A3=_ "E:\Work\testProject\Libraries\uart2.c" "E:\Work\testProject\uart2.c"
+A4=_ "e:\Backup\rfConnTestProj_blinkLed\LEDs.c" ""
+Count=5
+SuppressDialog=1

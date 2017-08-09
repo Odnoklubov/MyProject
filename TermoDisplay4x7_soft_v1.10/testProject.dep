@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2075454617</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\crc.o</file>
+      <file>$PROJ_DIR$\LedMatrix.c</file>
+      <file>$PROJ_DIR$\io_macros.h</file>
+      <file>$PROJ_DIR$\..\svnProject\branches\Oleg\Source\General\iostm8s105c6.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rfm22.o</file>
+      <file>$TOOLKIT_DIR$\inc\iostm8s105c6.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\clk.pbi</file>
+      <file>$PROJ_DIR$\LEDs.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Display4x7.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\LedMatrix.pbi</file>
+      <file>$PROJ_DIR$\Display4x7.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\UartInt.o</file>
+      <file>$PROJ_DIR$\Libraries\one-wire.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\LEDs.o</file>
+      <file>$PROJ_DIR$\helper.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\one-wire.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\helper.pbi</file>
+      <file>$PROJ_DIR$\one-wire.h</file>
+      <file>$PROJ_DIR$\iostm8s105c6.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ymath.h</file>
+      <file>$PROJ_DIR$\Libraries\LEDs.h</file>
+      <file>$PROJ_DIR$\Libraries\clk.h</file>
+      <file>$PROJ_DIR$\Libraries\delay.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\delay.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart2.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Libraries\WirelessNetwork.h</file>
+      <file>$PROJ_DIR$\..\svnProject\branches\Oleg\Source\General\rtc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\spi.o</file>
+      <file>$TOOLKIT_DIR$\lib\dlstm8smn.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\one-wire.o</file>
+      <file>$PROJ_DIR$\spi.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ds18b20.pbi</file>
+      <file>$PROJ_DIR$\types.h</file>
+      <file>$PROJ_DIR$\ds18b20.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\WirelessNetwork.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\delay.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\rfm22.pbi</file>
+      <file>$PROJ_DIR$\Libraries\spi.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\helper.o</file>
+      <file>$PROJ_DIR$\LedMatrix.h</file>
+      <file>$PROJ_DIR$\uart2.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\clk.o</file>
+      <file>$PROJ_DIR$\Libraries\rfm22.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\WirelessNetwork.pbi</file>
+      <file>$PROJ_DIR$\Libraries\iostm8s105c6.h</file>
+      <file>$PROJ_DIR$\rfm22.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\testProject.pbd</file>
+      <file>$PROJ_DIR$\Libraries\ds18b20.c</file>
+      <file>$PROJ_DIR$\Libraries\ds18b20.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Libraries\LEDs.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\delay.h</file>
+      <file>$PROJ_DIR$\..\svnProject\branches\Oleg\Source\General\rtc.c</file>
+      <file>$PROJ_DIR$\Libraries\crc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\wdt.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\wdt.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\LedMatrix.o</file>
+      <file>$PROJ_DIR$\Libraries\uart2.c</file>
+      <file>$PROJ_DIR$\uart2.c</file>
+      <file>$PROJ_DIR$\Libraries\WirelessNetwork.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\rfm22.c</file>
+      <file>$PROJ_DIR$\rtc.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\one-wire.c</file>
+      <file>$PROJ_DIR$\UartInt.c</file>
+      <file>$PROJ_DIR$\spi.c</file>
+      <file>$PROJ_DIR$\Libraries\types.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\UartInt.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\crc.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Libraries\Results.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ds18b20.o</file>
+      <file>$PROJ_DIR$\Libraries\LedMatrix.c</file>
+      <file>$PROJ_DIR$\delay.c</file>
+      <file>$PROJ_DIR$\ds18b20.c</file>
+      <file>$PROJ_DIR$\Display4x7.c</file>
+      <file>$PROJ_DIR$\clk.c</file>
+      <file>$PROJ_DIR$\helper.c</file>
+      <file>$PROJ_DIR$\LEDs.c</file>
+      <file>$PROJ_DIR$\rtc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\..\svnProject\branches\Oleg\Source\General\types.h</file>
+      <file>$PROJ_DIR$\Libraries\uart2.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\WirelessNetwork.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\spi.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\LEDs.pbi</file>
+      <file>$PROJ_DIR$\Libraries\io_macros.h</file>
+      <file>$TOOLKIT_DIR$\config\lnkstm8s105c6.icf</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\crc.h</file>
+      <file>$PROJ_DIR$\Libraries\one-wire.h</file>
+      <file>$PROJ_DIR$\UartInt.h</file>
+      <file>$PROJ_DIR$\Libraries\clk.c</file>
+      <file>$PROJ_DIR$\wdt.c</file>
+      <file>$PROJ_DIR$\Libraries\delay.c</file>
+      <file>$PROJ_DIR$\WirelessNetwork.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dlstm8smn.h</file>
+      <file>$PROJ_DIR$\Libraries\crc.c</file>
+      <file>$PROJ_DIR$\Results.h</file>
+      <file>$PROJ_DIR$\Libraries\spi.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Display4x7.o</file>
+      <file>$TOOLKIT_DIR$\inc\io_macros.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\templproj.out</file>
+      <file>$PROJ_DIR$\Libraries\rfm22.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtgmath.h</file>
+      <file>$PROJ_DIR$\wdt.h</file>
+      <file>$TOOLKIT_DIR$\lib\dbgstm8smd.a</file>
+      <file>$PROJ_DIR$\Libraries\LedMatrix.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart2.o</file>
+      <file>$PROJ_DIR$\crc.c</file>
+      <file>$PROJ_DIR$\clk.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\LedMatrix.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 65</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19 2 45 59 37 91 58 92 56 55 109 80 82 62 100 35 70</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 19 2 45 59 37 91 58 92 56 55 109 80 82 62 100 35 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\one-wire.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102 77 50 98 23 81</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 102 77 50 98 23 81</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\WirelessNetwork.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 95</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 107 37 24 92 56 55 109 80 82 62 35 34 19 2 51 46 111 59 7</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 107 37 24 92 56 55 109 80 82 62 35 34 19 2 51 46 111 59 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 31</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 112 50 98</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 112 50 98</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\rfm22.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 112 50 98 116 77 120 21 23</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 112 50 98 116 77 120 21 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\ds18b20.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 83</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 102 77 50 98 23 81</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 54 102 77 50 98 23 81</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\LEDs.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 50 98</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 21 50 98</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\svnProject\branches\Oleg\Source\General\rtc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 108</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 58 92 56 55 109 80 82 62 100 35 70 3 114 93</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\uart2.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 121</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 94 50 98 77 81 22</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 94 50 98 77 81 22</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\uart2.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 121</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46 19 2 37 111 123 59 91 58 92 56 55 109 80 82 62 100 35 70</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 46 19 2 37 111 123 59 91 58 92 56 55 109 80 82 62 100 35 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\WirelessNetwork.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 95</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 77 24 92 56 55 109 80 82 62 35 112 50 98 116 94 81 23 21</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 28 77 24 92 56 55 109 80 82 62 35 112 50 98 116 94 81 23 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\rfm22.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34 19 2 51 37 7 59 91 11 15 118 69 92 20 56 55 109 80 82 62 117 24 35</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 34 19 2 51 37 7 59 91 11 15 118 69 92 20 56 55 109 80 82 62 117 24 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\rtc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 108</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 30</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 91 37 19 2 11 59 15 118 69 92 20 56 55 109 80 82 62 117 24 35 51</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 91 37 19 2 11 59 15 118 69 92 20 56 55 109 80 82 62 117 24 35 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19 2 37 34 59 91 11 15 118 69 92 20 56 55 109 80 82 62 117 24 35 51 8 123 7 38 18 100 70</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 19 2 37 34 59 91 11 15 118 69 92 20 56 55 109 80 82 62 117 24 35 51 8 123 7 38 18 100 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\one-wire.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 37 19 2 59 91 11 15 118 69 92 20 56 55 109 80 82 62 117 24 35 51</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 18 37 19 2 59 91 11 15 118 69 92 20 56 55 109 80 82 62 117 24 35 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UartInt.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 78</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 103 37 91 19 2 11 59 15 118 69 92 20 56 55 109 80 82 62 117 24 35 51 123</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 103 37 91 19 2 11 59 15 118 69 92 20 56 55 109 80 82 62 117 24 35 51 123</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 31</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34 19 2</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 34 19 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\LedMatrix.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 65</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50 98 120 23</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 50 98 120 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\delay.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59 19 2 91 37 11 15 118 69 92 20 56 55 109 80 82 62 117 24 35 51</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 59 19 2 91 37 11 15 118 69 92 20 56 55 109 80 82 62 117 24 35 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ds18b20.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 83</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38 18 37 19 2 59 91 11 15 118 69 92 20 56 55 109 80 82 62 117 24 35 51</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 38 18 37 19 2 59 91 11 15 118 69 92 20 56 55 109 80 82 62 117 24 35 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Display4x7.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 113</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 19 2 37 91 51 59 15 118 69 92 20 56 55 109 80 82 62 117 24 35</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 11 19 2 37 91 51 59 15 118 69 92 20 56 55 109 80 82 62 117 24 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\clk.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 123 37 59 19 2 91 11 15 118 69 92 20 56 55 109 80 82 62 117 24 35 51</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 123 37 59 19 2 91 11 15 118 69 92 20 56 55 109 80 82 62 117 24 35 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\helper.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15 37 69 92 20 56 55 109 80 82 62 117 24 35</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 15 37 69 92 20 56 55 109 80 82 62 117 24 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\LEDs.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7 19 2</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 7 19 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 115</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\clk.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 22 77</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\wdt.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 64</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 118 5 114</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 118 5 114</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\delay.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23 50 98</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 23 50 98</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\crc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 0</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 61 77</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\templproj.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 99 113 14 12 47 25 83 44 27 33 4 30 31 64 32 119</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\crc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 0</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 101 37</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 101 37</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$PROJ_DIR$\LedMatrix.c</file>
+      <file>$PROJ_DIR$\io_macros.h</file>
+      <file>$PROJ_DIR$\LEDs.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\one-wire.h</file>
+      <file>$PROJ_DIR$\iostm8s105c6.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlstm8smn.a</file>
+      <file>$PROJ_DIR$\spi.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\types.h</file>
+      <file>$PROJ_DIR$\ds18b20.h</file>
+      <file>$PROJ_DIR$\WirelessNetwork.c</file>
+      <file>$PROJ_DIR$\LedMatrix.h</file>
+      <file>$PROJ_DIR$\uart2.h</file>
+      <file>$PROJ_DIR$\Release\Obj\clk.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\uart2.o</file>
+      <file>$PROJ_DIR$\Release\Obj\one-wire.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\spi.o</file>
+      <file>$PROJ_DIR$\Release\Obj\LEDs.o</file>
+      <file>$PROJ_DIR$\Release\Obj\main.o</file>
+      <file>$PROJ_DIR$\Release\Obj\WirelessNetwork.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\rfm22.pbi</file>
+      <file>$PROJ_DIR$\rfm22.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\delay.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\uart2.c</file>
+      <file>$PROJ_DIR$\rfm22.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\one-wire.c</file>
+      <file>$PROJ_DIR$\spi.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\delay.c</file>
+      <file>$PROJ_DIR$\ds18b20.c</file>
+      <file>$PROJ_DIR$\clk.c</file>
+      <file>$PROJ_DIR$\LEDs.c</file>
+      <file>$PROJ_DIR$\Release\Obj\delay.o</file>
+      <file>$PROJ_DIR$\Release\Exe\testProject.out</file>
+      <file>$PROJ_DIR$\Release\Obj\ds18b20.o</file>
+      <file>$PROJ_DIR$\Release\Obj\LedMatrix.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\one-wire.o</file>
+      <file>$PROJ_DIR$\Release\Obj\LedMatrix.o</file>
+      <file>$PROJ_DIR$\Release\Obj\uart2.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\rfm22.o</file>
+      <file>$PROJ_DIR$\Release\Obj\crc.o</file>
+      <file>$PROJ_DIR$\Release\Obj\ds18b20.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\delay.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\clk.o</file>
+      <file>$PROJ_DIR$\Release\Obj\crc.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\spi.pbi</file>
+      <file>$TOOLKIT_DIR$\config\lnkstm8.icf</file>
+      <file>$PROJ_DIR$\Release\Obj\LEDs.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dbgstm8smn.a</file>
+      <file>$PROJ_DIR$\Release\Obj\WirelessNetwork.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\crc.h</file>
+      <file>$PROJ_DIR$\WirelessNetwork.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlstm8smn.h</file>
+      <file>$PROJ_DIR$\Results.h</file>
+      <file>$PROJ_DIR$\crc.c</file>
+      <file>$PROJ_DIR$\clk.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\LedMatrix.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 1 13 27</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 5 1 13 27</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\WirelessNetwork.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 10 6 58 26 25 61 34 35 28 9 8 5 1 24 14 62 27 2</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 60 10 6 58 26 25 61 34 35 28 9 8 5 1 24 14 62 27 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\uart2.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 5 1 10 62 64</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 14 5 1 10 62 64</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\rfm22.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 5 1 24 10 13 2 27</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 8 5 1 24 10 13 2 27</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 1 10 8 27 3 58 26 25 61 34 35 28 9 24 14 62 64 2 11 4 60</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 5 1 10 8 27 3 58 26 25 61 34 35 28 9 24 14 62 64 2 11 4 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\one-wire.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 10 5 1 27 62</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 4 10 5 1 27 62</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 5 1</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 8 5 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\delay.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27 5 1</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 27 5 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ds18b20.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 4 10 5 1 27 62</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 11 4 10 5 1 27 62</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\clk.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 10</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 64 10</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\LEDs.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2 5 1</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 2 5 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Release\Exe\testProject.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 54 20 45 57 51 48 40 42 21 44 47 19 17 7 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\crc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59 10</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 59 10</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

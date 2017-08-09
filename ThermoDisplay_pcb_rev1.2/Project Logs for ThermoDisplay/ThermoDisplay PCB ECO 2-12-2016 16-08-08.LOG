@@ -1,0 +1,9 @@
+Added Component: Designator=CN3(PLS-3)
+Added Component: Designator=R5(RES0805)
+Added Pin To Net: NetName=+3.3V Pin=CN3-1
+Added Pin To Net: NetName=PG0 Pin=CN3-2
+Added Pin To Net: NetName=GND Pin=CN3-3
+Added Pin To Net: NetName=+3.3V Pin=R5-1
+Added Pin To Net: NetName=PG0 Pin=R5-2
+Added Member To Class: ClassName=ThermoDisplay Member=Component CN3 Name
+Added Member To Class: ClassName=ThermoDisplay Member=Component R5 Value

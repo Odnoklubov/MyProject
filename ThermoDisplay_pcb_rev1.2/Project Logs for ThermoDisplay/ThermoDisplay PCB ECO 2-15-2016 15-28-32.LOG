@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SHDTA Pin=U3-14
+Removed Pin From Net: NetName=NetU3_9 Pin=U4-14
+Added Pin To Net: NetName=SHDTA Pin=U4-14
+Added Pin To Net: NetName=NetU3_9 Pin=U6-14
+Added Pin To Net: NetName=NetU3_14 Pin=U3-14
+Added Pin To Net: NetName=NetU3_14 Pin=U4-9
+Added Net: Name=NetU3_14
+Added Pin To Net: NetName=NetU5_14 Pin=U5-14
+Added Pin To Net: NetName=NetU5_14 Pin=U6-9
+Added Net: Name=NetU5_14
